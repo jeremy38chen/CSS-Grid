@@ -1,6 +1,6 @@
 #  Custom RWD Grid
 
-   Structure  :   min-width (Mobile-first)
-   Grid       :   Float-based
-   Syntax     :   SCSS
-   Created by :   Jeremy Chen
+   Structure  :   min-width (Mobile-first)<br>
+   Grid       :   Float-based<br>
+   Syntax     :   SCSS<br>
+   Created by :   Jeremy Chen<br>
